@@ -1,0 +1,13 @@
+{
+  "name": "desktop-themes",
+  "owner": { "name": "local" },
+  "description": "themes-for-claude's wallpapers and color themes on Claude Desktop's own theme API.",
+  "plugins": [
+    {
+      "name": "desktop-themes",
+      "source": "./desktop-themes",
+      "description": "Live pixel-art and ASCII wallpapers and color themes for Claude Desktop; pick one with /themes",
+      "version": "0.9.0"
+    }
+  ]
+}

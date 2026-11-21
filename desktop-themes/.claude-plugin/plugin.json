@@ -1,0 +1,9 @@
+{
+  "name": "desktop-themes",
+  "version": "0.9.0",
+  "description": "themes-for-claude's live ASCII wallpapers and color themes, painted through Claude Desktop's own theme API; pick one with /themes",
+  "author": { "name": "0toshigami (original), ported to the theme API" },
+  "license": "MIT",
+  "icon": "./.claude-plugin/icon.svg",
+  "types": "./types/index.d.ts"
+}
